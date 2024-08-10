@@ -12,7 +12,7 @@
 |:---:|
 |`Settings` -> `Developer Settings` -> 토큰 발급|
 |권한은 `Repo`만|
-|![](img/Bring_Labels_00.png)|
+|![](../img/Bring_Labels_00.png)|
  
 1. Terminal에서 `github-label-sync` 설치하기
 ```shell
